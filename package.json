@@ -31,6 +31,6 @@
         "headroom.js": "^0.10.3",
         "scrollmagic": "^2.0.7",
         "particles.js": "^2.0.0",
-        "swiper": "^5.2.1"
+        "swiper": "^6.5.1"
     }
 }
